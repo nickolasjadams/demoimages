@@ -1,3 +1,8 @@
 {
-	"mammal3": "That Mammal kind of sucks though right? Try a different one?"
+	"messages": {
+		"mammal3": {
+			"required": "This is a required field.",
+			"remote": "That Mammal kind of sucks though right? Try a different one?"
+		}
+	}
 }
